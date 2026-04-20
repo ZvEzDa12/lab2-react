@@ -33,7 +33,11 @@ public class UserRepository(AppDbContext db) : IUserRepository
         return new UserListRepositoryDto()
         {
             Items = mapper.Map<List<UserRepositoryDto>>(
-            await set.Skip(queryDto.Offset).Take(queryDto.Count > 10000 ? 10000 : queryDto.Count).ToListAsync()
+            await set
+                .OrderBy(x => x.Id)
+                .Skip(queryDto.Offset)
+                .Take(queryDto.Count > 10000 ? 10000 : queryDto.Count)
+                .ToListAsync()
             )
         };
     }
