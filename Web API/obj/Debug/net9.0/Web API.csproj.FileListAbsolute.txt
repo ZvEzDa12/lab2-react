@@ -1,0 +1,296 @@
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\appsettings.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Web API.staticwebassets.endpoints.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Web API.exe
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Web API.deps.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Web API.runtimeconfig.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Web API.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Web API.pdb
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Data.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Repositories.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Services.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Shared.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Services.pdb
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Data.pdb
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Repositories.pdb
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\bin\Debug\net9.0\Shared.pdb
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.csproj.AssemblyReference.cache
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.AssemblyInfoInputs.cache
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.AssemblyInfo.cs
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\scopedcss\bundle\Web API.styles.css
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.csproj.Up2Date
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\refint\Web API.dll
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.pdb
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\Web API.genruntimeconfig.cache
+C:\Users\mikha\Desktop\OOP-CW_Builder-dev-windows\Project\Web API\obj\Debug\net9.0\ref\Web API.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\appsettings.json
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Web API.staticwebassets.endpoints.json
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Web API.exe
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Web API.deps.json
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Web API.runtimeconfig.json
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Web API.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Web API.pdb
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Data.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Repositories.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Services.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Shared.dll
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Services.pdb
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Data.pdb
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Repositories.pdb
+C:\Users\feel something\Desktop\Project\Web API\bin\Debug\net9.0\Shared.pdb
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.csproj.AssemblyReference.cache
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.AssemblyInfoInputs.cache
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.AssemblyInfo.cs
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\scopedcss\bundle\Web API.styles.css
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.csproj.Up2Date
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.dll
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\refint\Web API.dll
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.pdb
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\Web API.genruntimeconfig.cache
+C:\Users\feel something\Desktop\Project\Web API\obj\Debug\net9.0\ref\Web API.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\appsettings.json
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Web API.staticwebassets.endpoints.json
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Web API.exe
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Web API.deps.json
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Web API.runtimeconfig.json
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Web API.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Web API.pdb
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Data.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Repositories.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Services.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Shared.dll
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Services.pdb
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Data.pdb
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Repositories.pdb
+C:\Users\Алексей\Desktop\Project\Web API\bin\Debug\net9.0\Shared.pdb
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\scopedcss\bundle\Web API.styles.css
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.csproj.Up2Date
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.dll
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\refint\Web API.dll
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.pdb
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\Web API.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Project\Web API\obj\Debug\net9.0\ref\Web API.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\appsettings.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Web API.staticwebassets.endpoints.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Web API.exe
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Web API.deps.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Web API.runtimeconfig.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Web API.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Web API.pdb
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Data.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Repositories.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Services.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Shared.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Services.pdb
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Data.pdb
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Repositories.pdb
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\bin\Debug\net9.0\Shared.pdb
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.csproj.AssemblyReference.cache
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.AssemblyInfoInputs.cache
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.AssemblyInfo.cs
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\scopedcss\bundle\Web API.styles.css
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.csproj.Up2Date
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\refint\Web API.dll
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.pdb
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\Web API.genruntimeconfig.cache
+C:\Users\feel something\Desktop\универ\борисыч\React\лаба 2 react\Web API\obj\Debug\net9.0\ref\Web API.dll
